@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.generic.com.NewTestClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-28T06:24:12" hostname="admin1-LIVA-Z2V" time="0.006">
+  <properties/>
+  <testcase name="givenNumber_isMaximum_Return" classname="com.generic.com.NewTestClass" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
